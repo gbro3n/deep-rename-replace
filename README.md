@@ -1,4 +1,4 @@
-# Rename Replace Script
+# Deep Rename Replace
 
 A Node.js script that replaces text in file and folder names, and file contents with intelligent case preservation and variant generation. This can be used for copying template software source code with any reference to a previous project name replaced.
 
